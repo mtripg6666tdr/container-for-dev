@@ -27,7 +27,7 @@ jobs:
         id: meta
         with:
           images: ghcr.io/${{ github.actor }}/ubuntu-for-dev
-          flavor: latest=auto
+          flavor: latest=true
           tags: |
             type=sha
 
