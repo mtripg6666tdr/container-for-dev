@@ -7,6 +7,7 @@ const versions = [
   "v16",
   "v18",
   "v20",
+  "v22",
 ];
 
 (async function(){
